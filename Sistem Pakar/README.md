@@ -1,5 +1,5 @@
 # Aplikasi-Kecerdasan-Buatan
-Sistem Pakar Diagnosa Penyakit Tanaman Padi Berbasis WEB Dengan Forward dan Backward Chaining
+Sistem Pakar Diagnosa Penyakit Berbasis WEB Dengan Forward dan Backward Chaining
 
 #term to use
 1. pastikan import database terlebih dahulu sebelum menggunakan
